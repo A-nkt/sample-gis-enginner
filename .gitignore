@@ -1,1 +1,8 @@
 .DS_Store
+location-tech-sample-v1
+basic/tiles
+basic/*.jpg
+basic/admin
+basic/Noto*
+P29-21.geojson
+school-JP.png
